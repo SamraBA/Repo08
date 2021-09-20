@@ -4,7 +4,7 @@ var mathLess;
 function mathTest(x, y) {
 
 // Only change code above this line
-    if(x < 0 || y < 0) {
+    if (x < 0 || y < 0) {
 // Only change code below this line
   return undefined;
     
