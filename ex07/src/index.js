@@ -10,7 +10,7 @@ console.log("addThree: " + sum);
 
 function addFive() {
     sum = sum + 5;
-    console.log("addThree: " + sum);
+    console.log("addFive: " + sum);
     }
 
 
