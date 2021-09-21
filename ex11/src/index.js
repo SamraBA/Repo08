@@ -1,5 +1,5 @@
 // Only change code below this line
-var mathLess;
+
 
 function mathTest(x, y) {
 
@@ -24,4 +24,4 @@ console.log(mathTest(0,0));
     
 // Only change code above this line
     
-    module.exports = mathLess;
+    module.exports = mathTest;
